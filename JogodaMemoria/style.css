@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border: solid 3px black;
+    width: 150px;
+    height: 150px;
+}
+
+nav h1, h2 {
+    text-align: center;
+    margin: 5px;
+}
+
+#botao {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
